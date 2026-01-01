@@ -1,4 +1,4 @@
-I’m Jett, a 16-year veteran of the Web Development scene. I’m currently looking for the perfect fit with a modern, remote-first company seeking web technology expertise. If you’re reading this, you’re probably looking for a developer with great communication skills, a hawk’s eye for detail, and a self-starter attitude.
+I’m Jett, a 16-year veteran of the Web Development scene. I’m currently looking for the perfect fit with a modern, remote-first company seeking web technology expertise. I can offer great communication skills, a hawk’s eye for detail, and a self-starter attitude.
 
 I have a deep knowledge of modern javascript frameworks like React and Angular, front-end gold standards for accessibility, excellent UX design, API integration, and CMS management.
 
